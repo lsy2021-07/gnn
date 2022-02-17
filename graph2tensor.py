@@ -109,10 +109,6 @@ edge_5 = (4, 2)
 ## Note:
 ## 1: For each of the 5 edges, print whether it can be negative edge
 print(G.has_edge(edge_1[0], edge_1[1]))
-print(G.has_edge(edge_2[0], edge_2[1]))
-print(G.has_edge(edge_3[0], edge_3[1]))
-print(G.has_edge(edge_4[0], edge_4[1]))
-print(G.has_edge(edge_5[0], edge_5[1]))
 #########################################
 
 
