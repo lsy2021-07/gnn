@@ -1,5 +1,13 @@
+
+
+
 import networkx as nx
 import matplotlib.pyplot as plt
+
+
+
+
+
 G=nx.Graph()
 #add one node with level attributes
 G.add_node(0,feature=5,label=0)
